@@ -112,5 +112,5 @@ document.addEventListener("DOMContentLoaded", function () {
 
     // Initial load and polling every 5 seconds
     fetchAlerts();
-    setInterval(fetchAlerts, 5000);
+    setInterval(fetchAlerts, 5000); 
 })
