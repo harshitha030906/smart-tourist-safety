@@ -53,7 +53,7 @@ TOURIST-SAFETY-APP/
 git clone https://github.com/harshitha030906/smart-tourist-safety.git
 cd smart-tourist-safety
 
-### 1️⃣ Create and activate a virtual environment 
+### 2️⃣ Create and activate a virtual environment 
 python -m venv venv
 venv\Scripts\activate
 
