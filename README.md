@@ -50,11 +50,10 @@ TOURIST-SAFETY-APP/
 ## ⚙️ Installation & Setup
 
 ### 1️⃣ Clone the repository
-```bash
 git clone https://github.com/harshitha030906/smart-tourist-safety.git
 cd smart-tourist-safety
 
-### 2️⃣ Create and activate virtual environment
+### 2️⃣ Create and activate a virtual environment 
 python -m venv venv
 venv\Scripts\activate
 
@@ -64,5 +63,5 @@ pip install -r requirements.txt
 ### 4️⃣ Run the application
 python tourist.py
 
-5️⃣ Open in browser
+### 5️⃣ Open in browser
 http://127.0.0.1:5000/
