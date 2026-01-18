@@ -65,3 +65,14 @@ python tourist.py
 
 ### 5️⃣ Open in browser
 http://127.0.0.1:5000/
+
+### 📸 Screenshots
+
+<img width="1920" height="1080" alt="Screenshot (12)" src="https://github.com/user-attachments/assets/e7655eec-6d35-425b-bb9d-6dc320e7317f" />
+<img width="1920" height="1080" alt="Screenshot (16)" src="https://github.com/user-attachments/assets/0b39c0f9-7d91-4055-a420-48553fa1c60f" />
+<img width="1920" height="1080" alt="Screenshot (15)" src="https://github.com/user-attachments/assets/e310f7d8-2062-4dec-a06a-a4065c157f86" />
+<img width="1920" height="1080" alt="Screenshot (14)" src="https://github.com/user-attachments/assets/ca1d5ba9-f99f-48c2-9a39-9e0d1b377f3c" />
+<img width="1920" height="1080" alt="Screenshot (13)" src="https://github.com/user-attachments/assets/8b7f788f-5be1-4936-9b3c-8f392bad451b" />
+<img width="1920" height="1080" alt="Screenshot (17)" src="https://github.com/user-attachments/assets/be67dd7d-3ed5-44c3-9ba3-3e3555a55517" />
+<img width="1920" height="1080" alt="Screenshot (18)" src="https://github.com/user-attachments/assets/a1468527-942f-4126-89d0-0645ec2762cf" />
+
