@@ -25,26 +25,47 @@ The application follows a clean **Flask MVC architecture** with separate dashboa
 
 ## 📂 Project Structure
 TOURIST-SAFETY-APP/
+
 │
+
 ├── data/
+
 │ └── dataset2.xlsx
+
 │
+
 ├── static/
+
 │ ├── css/
+
 │ │ └── style.css
+
 │ └── js/
+
 │ ├── admin.js
+
 │ └── script.js
+
 │
+
 ├── templates/
+
 │ ├── admin.html
+
 │ ├── alert.html
+
 │ ├── base.html
+
 │ ├── home.html
+
 │ └── tourist.html
+
 │
+
 ├── tourist.py
+
 ├── requirements.txt
+
 └── README.md
 
 ## ⚙️ Installation & Setup
